@@ -20,7 +20,7 @@
 site:
   name:
     class: text # text / i_class / img
-    custom: Solitude # Solitude / fas fa-ghost / /img/pwa/favicon.ico
+    custom: NCN:
   icon: https://pan.811520.xyz/2024-10/1728197294016.webp # Site icon / 网站图标
 # --------------------------- 网站信息 end ---------------------------
 
@@ -96,7 +96,7 @@ hometop:
     热门: /tags/Fire/ || fas fa-fire || linear-gradient(to right,#f65,#ffbf37)
   recommendList:
     sup: 置顶
-    title: Solitude 官方文档
+    title: NCN 官方文档
     url: https://solitude.js.org/
     img: https://pan.811520.xyz/2024-10/1728279557702.webp
     color: "none"
