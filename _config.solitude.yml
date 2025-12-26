@@ -20,7 +20,7 @@
 site:
   name:
     class: text # text / i_class / img
-    custom: NCN:
+    custom: NCN
   icon: https://pan.811520.xyz/2024-10/1728197294016.webp # Site icon / 网站图标
 # --------------------------- 网站信息 end ---------------------------
 
